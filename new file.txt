@@ -1,3 +1,4 @@
 this is a new file.
 now add the second line.
 today is fine.
+staged, then modify.
